@@ -1,4 +1,4 @@
-# home-credit-risk
+# home-credit-risk-project
 
 I worked on this project with my teammates.I focused on Bureau and Bureau Balance tables. 
 
