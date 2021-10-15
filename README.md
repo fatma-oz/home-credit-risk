@@ -15,7 +15,7 @@
 
 *The model was finally run with a single function called main.
 
-*A table of the most important variables for LIGHTGBM has been created.
+*A graph of the most important variables for LIGHTGBM has been created.
 
 *Developed with Jupyter Notebook, Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
