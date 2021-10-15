@@ -7,7 +7,7 @@
 
 *The problem of MERGING tables in this data has been resolved.
 
-*Feature engineering was applied for each table. Aggregation functions were used for this.
+*Data preprocessing and Feature engineering was applied for each table. Aggregation functions were used for this.
 
 *In the project, PRODUCTION LEVEL CODING was done using functions.
 
